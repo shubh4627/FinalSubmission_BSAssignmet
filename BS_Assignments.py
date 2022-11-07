@@ -41,6 +41,20 @@ capabilities = [
         "sessionName": "BStack Python sample parallel",
         "buildName": BUILD_NAME,
     },
+    {
+        "browserName": "ios",
+        "deviceName": "iPad Pro 12.9 2020",
+        "osVersion": "16",
+        "sessionName": "BStack Python sample parallel",
+        "buildName": BUILD_NAME,
+    },
+    {
+        "browserName": "android",
+        "deviceName": "Samsung Galaxy S22 Ultra",
+        "osVersion": "12.0",
+        "sessionName": "BStack Python sample parallel",
+        "buildName": BUILD_NAME,
+    },
 
    
 ]
